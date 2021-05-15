@@ -1,6 +1,6 @@
 # e-commerce_back-end
 
-![License](https://img.shields.io/badge/License-MIT-cyan)
+![License](https://img.shields.io/badge/License-MIT-indigo)
 
 ## Description 
 - This application is all about creating a back end e-commerce site for an internet retail company.
@@ -19,7 +19,7 @@
 ---
 
 ## Technologies
-node js, express, MySQL, MySQL2, Sequelize, Insomnia 
+node js, express, MySQL, MySQL2, Sequelize, Insomnia, Screencastify 
 
 ---
 ## Links
@@ -29,12 +29,12 @@ node js, express, MySQL, MySQL2, Sequelize, Insomnia
 ---
 
 ## Video
-![employee-tracker-video](./assets/video/emptracker.gif)
+![e-commerce-video](./assets/e-commerce.gif)
 "Video of running the code"
 --- 
 
 ## Challenges
- - 
+ - Using insomnia, as it was my first time to use it.
 ---
 ## License
 - MIT
