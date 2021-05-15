@@ -30,11 +30,11 @@ node js, express, MySQL, MySQL2, Sequelize, Insomnia, Screencastify
 
 ## Video
 ![e-commerce-video](./assets/e-commerce.gif)
-"Video of running the code"
+ - "Video of running the code"
 --- 
 
 ## Challenges
- - Using insomnia, as it was my first time to use it.
+ - Using insomnia, as I am not familiar with it.
 ---
 ## License
 - MIT
